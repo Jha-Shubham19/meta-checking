@@ -11,5 +11,8 @@
         "src": "/(.*)",
         "dest": "/"
       }
-    ]
+    ],
+    "npm": {
+      "flags": "--legacy-peer-deps"
+    }
   }
